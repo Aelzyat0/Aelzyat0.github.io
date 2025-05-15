@@ -1,0 +1,27 @@
+site_name: Aelzyat0
+site_url: https://mydomain.org/Aelzyat0
+site_description: Aelzyat0 is a personal blog and portfolio site showcasing my projects and thoughts.
+site_author: Aelzyat0
+site_author_url: https://mydomain.org
+site_author_email: Aelzyat9900@gmail.com
+site_logo: images/logo.png
+site_favicon: images/favicon.png
+site_dir: site
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant-progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.section
+
+  nav:
+    - Home: index.md
+    - About: about.md
+    - Services: services.md
+    - Blog: blog.md
+    - Contact: contact.md
